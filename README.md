@@ -58,7 +58,7 @@ categories once trained on that internal corpus.
 ├── label_encoder.joblib                # label encoder
 ├── custom_phrase_stop.pkl              # custom stopword phrases
 └── notebooks/
-    ├── 01_eda.ipynb                    # exploratory data analysis
-    ├── 02_model_training.ipynb         # preprocessing + model training
-    └── 03_gradio_app.ipynb             # original Colab app build/deploy
+    ├── 1_RADAR_EDA.ipynb                    # exploratory data analysis
+    ├── 2_RADAR_MODEL_TRAINING.ipynb         # preprocessing + model training
+    └── 3_RADAR_GRADIO_APP.ipynb             # original Colab app build/deploy
 ```
